@@ -1,14 +1,10 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Heineken - Inteligência Artificial Aplicada a Dados com Copilot</span>
+    <span>Criando um Dashboard de Vendas do Xbox</span>
 </h1>
 
-# :computer: Desafio de projeto: Criando um Dashboard de Vendas do Xbox
-
 O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
-
-# :bulb: Solução do desafio
 
 ## Dashboard fornecido pelo instrutor
 
@@ -19,6 +15,8 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
 <p align=center>
 <img src="dados.png" width=100%>
 <p/>
+
+# :computer: Solução do desafio
 
 ## Explorando os dados com IA
 
